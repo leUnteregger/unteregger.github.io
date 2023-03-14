@@ -44,7 +44,7 @@ Instructions:
 		Just add your thumbnails to the thumbnails section in the following format:
 
 			<article>
-				<a class="thumbnail" href="path/to/fullsize.jpg">
+				<a class="thumbnail" href="pexels-photo-208745">
 					<img src="path/to/thumbnail.jpg" alt="" />
 				</a>
 				<h2>Title</h2>
@@ -55,7 +55,7 @@ Instructions:
 
 	The "data-position" attribute:
 
-		As a full screen experience, the viewer will be subject to changes in its size and,
+		As a full screen experience, the viewer will be subject to chahttps://github.com/leUnteregger/unteregger.github.io.gitnges in its size and,
 		consequently, its aspect ratio. Since your full size images are basically applied as
 		backgrounds to the viewer itself, this means they'll probably (okay, definitely) get
 		cropped. All is not lost, however, as you can use the optional "data-position" attribute
